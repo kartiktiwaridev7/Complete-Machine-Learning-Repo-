@@ -1,0 +1,101 @@
+Date,Category,Amount,Payment Method,Description
+2024-03-30,Rent,1812.15,Cash,Rent expense
+2024-10-19,Healthcare,4220.66,Credit Card,Healthcare expense
+2024-09-19,Salary,618.0,Bank Transfer,Monthly Salary
+2024-09-06,Rent,4643.38,Credit Card,Rent expense
+2024-08-09,Entertainment,2016.27,Cash,Entertainment expense
+2024-12-16,Healthcare,1336.76,Bank Transfer,Healthcare expense
+2024-01-20,Healthcare,333.67,Debit Card,Healthcare expense
+2024-11-19,Utilities,3835.96,Credit Card,Utilities expense
+2024-12-17,Healthcare,3018.53,Bank Transfer,Healthcare expense
+2024-04-03,Transport,3406.31,Debit Card,Transport expense
+2024-07-08,Healthcare,4269.58,Cash,Healthcare expense
+2024-12-09,Salary,2203.85,Bank Transfer,Monthly Salary
+2024-09-16,Transport,4167.72,Credit Card,Transport expense
+2024-02-16,Groceries,1746.74,Bank Transfer,Groceries expense
+2024-12-12,Rent,1344.81,Cash,Rent expense
+2024-11-07,Entertainment,4505.53,Credit Card,Entertainment expense
+2024-08-12,Entertainment,2782.49,Credit Card,Entertainment expense
+2024-02-26,Groceries,3741.72,Credit Card,Groceries expense
+2024-06-08,Investment,3566.13,Credit Card,Investment expense
+2024-01-20,Utilities,4968.42,Bank Transfer,Utilities expense
+2024-10-20,Salary,279.85,Debit Card,Monthly Salary
+2024-10-10,Salary,4550.4,Bank Transfer,Monthly Salary
+2024-02-18,Salary,3261.04,Cash,Monthly Salary
+2024-11-30,Utilities,387.82,Debit Card,Utilities expense
+2024-10-26,Transport,113.47,Credit Card,Transport expense
+2024-04-20,Entertainment,1056.79,Debit Card,Entertainment expense
+2024-12-25,Salary,972.23,Bank Transfer,Monthly Salary
+2024-02-05,Rent,73.63,Cash,Rent expense
+2024-04-26,Entertainment,3567.78,Credit Card,Entertainment expense
+2024-07-21,Entertainment,3802.3,Cash,Entertainment expense
+2024-10-03,Transport,2179.79,Debit Card,Transport expense
+2024-04-21,Investment,735.56,Credit Card,Investment expense
+2024-04-24,Investment,1890.36,Bank Transfer,Investment expense
+2024-08-29,Rent,2523.27,Credit Card,Rent expense
+2024-11-17,Investment,428.83,Debit Card,Investment expense
+2024-11-01,Entertainment,1455.77,Bank Transfer,Entertainment expense
+2024-02-06,Transport,4410.25,Bank Transfer,Transport expense
+2024-10-09,Rent,483.9,Bank Transfer,Rent expense
+2024-11-27,Transport,2121.83,Credit Card,Transport expense
+2024-12-18,Entertainment,4358.57,Credit Card,Entertainment expense
+2024-10-01,Transport,3981.64,Credit Card,Transport expense
+2024-08-23,Entertainment,2892.88,Debit Card,Entertainment expense
+2024-07-04,Groceries,200.84,Bank Transfer,Groceries expense
+2024-10-26,Utilities,2727.51,Cash,Utilities expense
+2024-11-25,Investment,1431.62,Debit Card,Investment expense
+2024-03-01,Groceries,4667.7,Debit Card,Groceries expense
+2024-01-16,Entertainment,1610.78,Debit Card,Entertainment expense
+2024-01-26,Salary,3923.61,Cash,Monthly Salary
+2024-02-07,Utilities,4931.87,Cash,Utilities expense
+2024-10-06,Healthcare,343.67,Bank Transfer,Healthcare expense
+2024-03-29,Groceries,1008.81,Debit Card,Groceries expense
+2024-07-09,Rent,2610.49,Bank Transfer,Rent expense
+2024-08-15,Utilities,2056.75,Credit Card,Utilities expense
+2024-09-20,Groceries,4565.65,Credit Card,Groceries expense
+2024-03-19,Investment,2391.94,Debit Card,Investment expense
+2024-07-09,Entertainment,1923.21,Bank Transfer,Entertainment expense
+2024-04-16,Entertainment,3568.66,Bank Transfer,Entertainment expense
+2024-03-07,Investment,4007.69,Credit Card,Investment expense
+2024-12-27,Healthcare,1191.86,Bank Transfer,Healthcare expense
+2024-01-31,Groceries,2126.43,Cash,Groceries expense
+2024-07-04,Salary,3682.74,Cash,Monthly Salary
+2024-06-12,Groceries,3715.48,Credit Card,Groceries expense
+2024-12-16,Transport,4080.25,Credit Card,Transport expense
+2024-05-30,Groceries,1329.84,Debit Card,Groceries expense
+2024-05-13,Entertainment,3333.3,Credit Card,Entertainment expense
+2024-12-11,Transport,3227.37,Credit Card,Transport expense
+2024-02-05,Utilities,1925.17,Cash,Utilities expense
+2024-01-17,Entertainment,1594.38,Cash,Entertainment expense
+2024-02-10,Groceries,2210.28,Cash,Groceries expense
+2024-05-31,Rent,616.45,Bank Transfer,Rent expense
+2024-07-13,Rent,335.42,Debit Card,Rent expense
+2024-01-30,Utilities,2090.66,Cash,Utilities expense
+2024-11-23,Utilities,4925.63,Cash,Utilities expense
+2024-06-03,Groceries,235.48,Debit Card,Groceries expense
+2024-10-24,Utilities,1201.96,Credit Card,Utilities expense
+2024-01-02,Transport,3519.16,Debit Card,Transport expense
+2024-12-12,Healthcare,1981.51,Cash,Healthcare expense
+2024-12-04,Investment,944.47,Debit Card,Investment expense
+2024-10-06,Utilities,424.44,Credit Card,Utilities expense
+2024-07-17,Healthcare,827.79,Bank Transfer,Healthcare expense
+2024-02-01,Groceries,1442.48,Bank Transfer,Groceries expense
+2024-07-13,Rent,1652.95,Debit Card,Rent expense
+2024-02-12,Salary,422.96,Cash,Monthly Salary
+2024-09-03,Salary,992.85,Debit Card,Monthly Salary
+2024-01-30,Entertainment,2954.31,Cash,Entertainment expense
+2024-06-29,Healthcare,4583.93,Credit Card,Healthcare expense
+2024-10-30,Salary,1642.32,Cash,Monthly Salary
+2024-11-14,Investment,4482.11,Cash,Investment expense
+2024-05-20,Salary,3304.39,Credit Card,Monthly Salary
+2024-08-24,Healthcare,4371.2,Debit Card,Healthcare expense
+2024-11-30,Rent,2723.13,Debit Card,Rent expense
+2024-01-14,Entertainment,1275.52,Cash,Entertainment expense
+2024-01-17,Utilities,2562.77,Bank Transfer,Utilities expense
+2024-01-09,Utilities,1370.08,Bank Transfer,Utilities expense
+2024-03-10,Salary,4018.99,Debit Card,Monthly Salary
+2024-08-10,Utilities,4166.58,Cash,Utilities expense
+2024-12-13,Utilities,458.57,Credit Card,Utilities expense
+2024-05-17,Entertainment,4879.37,Cash,Entertainment expense
+2024-09-21,Rent,404.78,Bank Transfer,Rent expense
+2024-02-14,Groceries,2614.31,Credit Card,Groceries expense
